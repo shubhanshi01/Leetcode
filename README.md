@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhanshi01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3457-eat-pizzas](https://github.com/shubhanshi01/Leetcode/tree/master/3457-eat-pizzas) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/0118-pascals-triangle) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Bit Manipulation
 |  |
