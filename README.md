@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3457-eat-pizzas](https://github.com/shubhanshi01/Leetcode/tree/master/3457-eat-pizzas) |
+| [3536-maximum-product-of-two-digits](https://github.com/shubhanshi01/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/shubhanshi01/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
