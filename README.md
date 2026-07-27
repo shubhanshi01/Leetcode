@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/shubhanshi01/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shubhanshi01/Leetcode/tree/master/0853-car-fleet) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3457-eat-pizzas](https://github.com/shubhanshi01/Leetcode/tree/master/3457-eat-pizzas) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/shubhanshi01/Leetcode/tree/master/0853-car-fleet) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3457-eat-pizzas](https://github.com/shubhanshi01/Leetcode/tree/master/3457-eat-pizzas) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhanshi01/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
