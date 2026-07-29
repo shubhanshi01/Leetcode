@@ -114,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0226-invert-binary-tree) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0226-invert-binary-tree) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Bitmask
 |  |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
