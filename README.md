@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shubhanshi01/Leetcode/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhanshi01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhanshi01/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhanshi01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhanshi01/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubhanshi01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
