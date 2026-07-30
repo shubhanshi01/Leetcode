@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhanshi01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/0118-pascals-triangle) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Tree
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhanshi01/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
