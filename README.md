@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhanshi01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhanshi01/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
@@ -253,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhanshi01/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
