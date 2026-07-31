@@ -5,6 +5,15 @@ class Solution {
             arr.add(new ArrayList<>(sum));
             return;
         }
+
+        for (int j =i; j < candidates.length; j++) {
+
+            // Avoid duplicate combinations at the same recursion level
+            if (j > i && candidates[j] == candidates[j - 1]) {
+                continue;
+            }
+        }
+
         if(i==candidates.length ||target<0){
             
             return;
