@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhanshi01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -237,5 +238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
