@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/shubhanshi01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhanshi01/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/shubhanshi01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
 ## Bit Manipulation
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/shubhanshi01/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Union-Find
 |  |
 | ------- |
