@@ -1,0 +1,38 @@
+def CheckAbbreviations(arr,abv):
+    first_word=[]
+ 
+    for Words in arr:
+        first_word.append(Words[0].upper())
+ 
+    for aber in abv:
+        for ch in aber.upper():
+            if ch not in first_word:
+                return "NO"
+    return "YES"
+ 
+            
+ 
+ 
+   
+    
+t=int(input())
+ 
+for i in range(t):
+    n,k=map(int,input().split())
+    arr=[]
+    abv=[]
+    for j in range(n):
+        word=input()
+        arr.append(word)
+    for m in range(k):
+        abr_word=input()
+        abv.append(abr_word)
+ 
+    print(CheckAbbreviations(arr,abv))
+        
+ 
+ 
+ 
+ 
+ 
+ 
