@@ -2,18 +2,22 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 2,
+    "newbie": 3,
     "shas": {
+      "1903_A - Halloumi Boxes": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2253_A - The Best Card": {
         "category": "newbie",
         "rating": 800
       },
-      "1903_A - Halloumi Boxes": {
-        "rating": 800,
+      "2257_A - Creating Abbreviations": {
+        "rating": "Unrated",
         "category": "newbie"
       }
     },
-    "solved": 2,
+    "solved": 3,
     "specialist": 0
   }
 }
