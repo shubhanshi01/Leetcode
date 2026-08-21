@@ -1,0 +1,21 @@
+def wingame(c):
+   if(c<2):
+      return False
+   j=2
+   while(j*j<=c):
+      if (c%j==0):
+        return False
+      j+=1
+   return True
+           
+ 
+n=int(input())
+ 
+for i in range(n):
+   c=int(input())
+ 
+   if wingame(c+1):
+      print("YES")
+   else:
+      print("NO")
+ 
