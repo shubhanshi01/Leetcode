@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhanshi01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shubhanshi01/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shubhanshi01/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shubhanshi01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shubhanshi01/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shubhanshi01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/0242-valid-anagram) |
