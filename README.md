@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhanshi01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhanshi01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shubhanshi01/Leetcode/tree/master/0133-clone-graph) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhanshi01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/shubhanshi01/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhanshi01/Leetcode/tree/master/0200-number-of-islands) |
 ## Graph Theory
