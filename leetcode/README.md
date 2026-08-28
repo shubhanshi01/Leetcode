@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
