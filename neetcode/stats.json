@@ -2,17 +2,21 @@
   "neetcode": {
     "easy": 2,
     "hard": 0,
-    "medium": 0,
+    "medium": 1,
     "shas": {
       "1929-concatenation-of-array-explanation": {
         "date": "2026-08-29T10:57:42.915Z",
         "difficulty": "Easy"
       },
       "is-subsequence": {
-        "difficulty": "Easy",
-        "date": "2026-08-29T11:46:28.255Z"
+        "date": "2026-08-29T11:46:28.255Z",
+        "difficulty": "Easy"
+      },
+      "append-characters-to-string-to-make-subsequence": {
+        "difficulty": "Medium",
+        "date": "2026-08-29T12:31:32.714Z"
       }
     },
-    "solved": 2
+    "solved": 3
   }
 }
