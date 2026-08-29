@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
+| [2727-number-of-senior-citizens](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/3379-score-of-a-string) |
 ## Sorting
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2058-concatenation-of-array) |
+| [2727-number-of-senior-citizens](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2727-number-of-senior-citizens) |
 ## Prefix Sum
 |  |
 | ------- |
