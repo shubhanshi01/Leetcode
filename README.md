@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/shubhanshi01/Leetcode/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/shubhanshi01/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shubhanshi01/Leetcode/tree/master/1406-stone-game-iii) |
+| [1408-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/shubhanshi01/Leetcode/tree/master/2029-stone-game-ix) |
 | [3457-eat-pizzas](https://github.com/shubhanshi01/Leetcode/tree/master/3457-eat-pizzas) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shubhanshi01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhanshi01/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1408-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shubhanshi01/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1408-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
