@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
+| [2058-concatenation-of-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
