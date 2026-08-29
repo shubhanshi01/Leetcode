@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
+| [3379-score-of-a-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
