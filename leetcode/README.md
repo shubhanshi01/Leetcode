@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
+| [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/3379-score-of-a-string) |
 ## Sorting
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2727-number-of-senior-citizens) |
 ## Prefix Sum
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
