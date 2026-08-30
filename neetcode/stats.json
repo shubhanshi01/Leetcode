@@ -1,6 +1,6 @@
 {
   "neetcode": {
-    "easy": 2,
+    "easy": 3,
     "hard": 0,
     "medium": 1,
     "shas": {
@@ -8,15 +8,19 @@
         "date": "2026-08-29T10:57:42.915Z",
         "difficulty": "Easy"
       },
+      "append-characters-to-string-to-make-subsequence": {
+        "date": "2026-08-29T12:31:32.714Z",
+        "difficulty": "Medium"
+      },
       "is-subsequence": {
         "date": "2026-08-29T11:46:28.255Z",
         "difficulty": "Easy"
       },
-      "append-characters-to-string-to-make-subsequence": {
-        "difficulty": "Medium",
-        "date": "2026-08-29T12:31:32.714Z"
+      "27-remove-element-explanation": {
+        "difficulty": "Easy",
+        "date": "2026-08-30T07:21:55.127Z"
       }
     },
-    "solved": 3
+    "solved": 4
   }
 }
