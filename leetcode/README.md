@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
 ## Array
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -89,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 <!---LeetCode Topics End-->
