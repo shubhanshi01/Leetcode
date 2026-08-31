@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
 | [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
+| [1894-merge-strings-alternately](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/3379-score-of-a-string) |
 ## Sorting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0027-remove-element) |
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
