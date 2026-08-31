@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhanshi01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shubhanshi01/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/shubhanshi01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/shubhanshi01/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhanshi01/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/shubhanshi01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhanshi01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
