@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shubhanshi01/Leetcode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/shubhanshi01/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shubhanshi01/Leetcode/tree/master/0191-number-of-1-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhanshi01/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhanshi01/Leetcode/tree/master/3575-maximum-good-subtree-score) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubhanshi01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shubhanshi01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0190-reverse-bits](https://github.com/shubhanshi01/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shubhanshi01/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shubhanshi01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
