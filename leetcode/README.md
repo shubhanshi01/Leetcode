@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0338-counting-bits) |
 ## Manacher
 |  |
 | ------- |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0338-counting-bits) |
 <!---LeetCode Topics End-->
