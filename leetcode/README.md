@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 <!---LeetCode Topics End-->
