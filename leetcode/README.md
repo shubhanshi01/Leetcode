@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
+| [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
+| [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2058-concatenation-of-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0338-counting-bits) |
+## Timsort
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
