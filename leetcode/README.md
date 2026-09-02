@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
 | [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
