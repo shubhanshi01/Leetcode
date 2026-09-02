@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0027-remove-element) |
+| [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1894-merge-strings-alternately) |
