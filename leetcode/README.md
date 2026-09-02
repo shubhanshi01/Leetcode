@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0338-counting-bits) |
 ## Manacher
 |  |
