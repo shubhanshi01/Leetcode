@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0041-first-missing-positive) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0027-remove-element) |
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
