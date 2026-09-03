@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhanshi01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhanshi01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/shubhanshi01/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shubhanshi01/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shubhanshi01/Leetcode/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/shubhanshi01/Leetcode/tree/master/0877-stone-game) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhanshi01/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shubhanshi01/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhanshi01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/shubhanshi01/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shubhanshi01/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/shubhanshi01/Leetcode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhanshi01/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shubhanshi01/Leetcode/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shubhanshi01/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
