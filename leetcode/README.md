@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
+| [0735-asteroid-collision](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/2058-concatenation-of-array) |
 ## Greedy
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
