@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
 | [1524-string-matching-in-an-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1894-merge-strings-alternately) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/1894-merge-strings-alternately) |
