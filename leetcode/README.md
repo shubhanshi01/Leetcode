@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0624-maximum-distance-in-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0238-product-of-array-except-self) |
 ## Linked List
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0567-permutation-in-string) |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhanshi01/Leetcode/tree/master/LeetCode/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
